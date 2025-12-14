@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /img/
+
+Sitemap: https://katyakorr.github.io/portfolio-rep/sitemap.xml
